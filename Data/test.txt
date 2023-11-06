@@ -1,0 +1,11 @@
+This is my first Java program
+We are going to write code to read the data
+We are going to write code to write the data into file
+
+
+This is my first Java program
+We are going to write code to read the data
+We are going to write code to write the data into file
+
+name=java
+automation=selenium

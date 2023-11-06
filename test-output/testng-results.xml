@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-03T19:40:55 IST" name="Default suite" finished-at="2023-11-03T19:41:15 IST" duration-ms="19216">
+    <groups>
+    </groups>
+    <test started-at="2023-11-03T19:40:55 IST" name="Default test" finished-at="2023-11-03T19:41:15 IST" duration-ms="19216">
+      <class name="org.wipro.automation.aumw.testcases.LoginScenarios_DDF">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:40:55 IST" name="launchBrowser" finished-at="2023-11-03T19:41:02 IST" duration-ms="6340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc01_loginFunc(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:41:02 IST" name="tc01_loginFunc" data-provider="ddf_data" finished-at="2023-11-03T19:41:02 IST" duration-ms="587" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_loginFunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:41:02 IST" name="closeBrowser" finished-at="2023-11-03T19:41:03 IST" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:41:03 IST" name="launchBrowser" finished-at="2023-11-03T19:41:08 IST" duration-ms="4978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc01_loginFunc(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:41:08 IST" name="tc01_loginFunc" data-provider="ddf_data" finished-at="2023-11-03T19:41:08 IST" duration-ms="462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_loginFunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:41:08 IST" name="closeBrowser" finished-at="2023-11-03T19:41:09 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:41:09 IST" name="launchBrowser" finished-at="2023-11-03T19:41:14 IST" duration-ms="5156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc01_loginFunc(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:41:14 IST" name="tc01_loginFunc" data-provider="ddf_data" finished-at="2023-11-03T19:41:14 IST" duration-ms="421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_loginFunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.aumw.testcases.LoginScenarios_DDF@13fd2ccd]" started-at="2023-11-03T19:41:14 IST" name="closeBrowser" finished-at="2023-11-03T19:41:15 IST" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.wipro.automation.aumw.testcases.LoginScenarios_DDF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
